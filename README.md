@@ -1,5 +1,5 @@
 # BIOS0030
-This test is designed to challenge the user's sense of number approximation.
+This test is designed to challenge the user's spatial reasoning.
 
 The user is shown 3D figures with several colours and conformations.
 
