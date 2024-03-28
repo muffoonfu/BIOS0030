@@ -13,9 +13,9 @@ Improvements in Version 2: overview
 
 Code structure:
 
-Separated specific operations into individual functions, called when the main function run_spatial_reasoning() is executed.
-run_introduction() : Contains biodata collection and test briefing
-run_spatial_reasoning() : calls run_introduction(), then runs spatial reasoning test and uploads data into Google Form.
+* Separated specific operations into individual functions, called when the main function run_spatial_reasoning() is executed.
+* run_introduction() : Contains biodata collection and test briefing
+* run_spatial_reasoning() : calls run_introduction(), then runs spatial reasoning test and uploads data into Google Form.
 generate_statistics(): retrieves historical test data to return the user's ranking in graph format.
 Various functions defined for button execution
 All code functions placed into spatialfunctions.py file. Main test code calls on functions within this file.
